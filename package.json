@@ -12,7 +12,7 @@
     "apidoc": "^0.17.7",
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "helmet": "^3.15.0",
     "moment": "^2.23.0",
     "moment-timezone": "^0.5.23",
